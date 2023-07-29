@@ -1,0 +1,3 @@
+[submodule "typebot.io"]
+	path = typebot.io
+	url = ./typebot.io
